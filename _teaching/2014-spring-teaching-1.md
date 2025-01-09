@@ -2,7 +2,7 @@
 title: "CS70"
 collection: teaching
 type: "Undergraduate course"
-permalink: http://www.eecs70.org/
+permalink: 
 venue: "University of California, Berkeley, CS"
 date: 2023
 location: "Berkeley, CA"
