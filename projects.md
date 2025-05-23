@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### At Brown 
+### At Berkeley 
 
 <span class='paper-title'>Critical Data and Machine Learning Studies</span>\
 _Description:_ In this course, we will investigate the complex ways that such data and machine learning (ML) technologies are shaped by human values and power structures, and in turn, how these technologies shape society.  We will work to understand these systems as sociotechnical — thinking beyond a particular technical artifact to explore how problems are defined and deemed important, how development practices and categorization schemes become default, and how the impact of a system can differ widely across communities.
