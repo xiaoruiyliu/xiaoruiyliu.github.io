@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi, I am Xiaorui! I am an incoming computer science PhD student at the University of Pennsylvania. Advised by [Andrew Head](andrewhead.info), my research lies at the intersection of human-computer interaction and programming languages. My current technical work is centered around [Property-Based Testing](https://www.youtube.com/watch?v=ujrpY3ct_BA). More generically, I want to understand how to make programming more usable! 
+Hi, I am Xiaorui! I am an incoming computer science PhD student at the University of Pennsylvania. Advised by [Andrew Head](https://andrewhead.info), my research lies at the intersection of human-computer interaction and programming languages. My current technical work is centered around [Property-Based Testing](https://www.youtube.com/watch?v=ujrpY3ct_BA). More generically, I want to understand how to make programming more usable! 
 
 Previously, I was an undergraduate at Berkeley, where I studied computer science, data science (concentration in geospatial information and technology), and history, with a minor in digital humanities. In my computer science research journey, I was very fortunate to be advised by [Sarah Chasins](https://schasins.com/) and was a part of [PLAIT Lab](https://plait-lab.org/). There, I did a mixed bag of projects at the intersection of PL + HCI, which included a Python eDSL for generating data transformation GUIs and a study on facilitating program generation for Arduino users. 
 
