@@ -10,4 +10,4 @@ For some fun additional background, I wrote my history thesis on the trajectory 
 
 Outside of my studies, I am very proud to have taught as an undergraduate for many semesters. I also had the pleasure to work in the [Human Contexts and Ethics](https://cdss.berkeley.edu/dsus/human-contexts-and-ethics) team at Berkeley, creating content that integrates real data and ethical considerations into various core courses. I am an enjoyer of cooking/baking and casually playing video games.
 
-(This website is forked from [this repo](https://github.com/harinisuresh/harinisuresh.github.io/tree/gh-pages).)
+(This website is forked from [this repo](https://github.com/harinisuresh/harinisuresh.github.io/tree/gh-pages), which is forked from [this repo](https://github.com/ankitsultana/researcher).)
