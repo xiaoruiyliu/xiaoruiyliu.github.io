@@ -6,6 +6,7 @@ layout: default
 <span class='paper-title'>[Data100: Principles and Techniques of Data Science](https://ds100.org/)</span>\
 **Undergraduate Teaching Assistant (Summer 2024 - Summer 2025)**  
 Summer 2025: Exam, Staff Support Lead
+
 Fall 2024 - Spring 2025: Content Lead  
 Summer 2024: Pedagogy Lead 
 
