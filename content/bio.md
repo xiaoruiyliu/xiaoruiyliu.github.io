@@ -1,3 +1,3 @@
-Hi! I am a second-year human-computer interaction student. I like thinking about programming. What is the future of [learning programming/ interacting with programs/ creating programs/ sharing programs]? I especially like to think of these questions with learners and end-users in mind. 
+Hi! I am a second-year human-computer interaction student. I like thinking about programming. What is the future of [learning programming/ interacting with programs/ creating programs/ sharing programs]? I especially like to think about these questions with learners and end-users in mind. 
 
 My current work focuses on the pedagogy of [property-based testing](https://www.youtube.com/watch?v=ujrpY3ct_BA) (PBT). One happy result of this is that I get to work closely with [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) and [Harrison Goldstein](https://harrisongoldste.in/). Right now, we're studying how one might incorporate PBT early in the CS curriculum.
