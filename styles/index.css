@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@theme {
+  --color-portfolio: var(--color-indigo-600);
+}
+@font-face {
+    font-family: "LibreFranklin";
+    font-weight: 100 900;
+    font-display: optional;
+    src: url("../public/fonts/LibreFranklin-VariableFont_wght.ttf");
+  }
+@font-face {
+    font-family: "LibreFranklinItalic";
+    font-weight: 100 900;
+    font-display: optional;
+    src: url("../public/fonts/LibreFranklin-Italic-VariableFont_wght.ttf");
+  }
+  @font-face {
+    font-family: "Inter";
+    font-weight: 100 900;
+    font-display: optional;
+    src: url("../public/fonts/Inter-VariableFont_slnt\,wght.ttf");
+  }
+  html {
+    overscroll-behavior: none;
+    overflow-x: hidden;
+    overflow-x: hidden;
+  }
