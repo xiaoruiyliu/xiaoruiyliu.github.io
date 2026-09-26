@@ -42,9 +42,9 @@ const Intro = ({ bio }: Props) => {
               <Image className="w-3" unoptimized width={12} height={12} src={"/assets/icons/cv.svg"} alt={"A CV Icon"}></Image>
               <span className="underline">CV</span>
             </a>
-            <a href="mailto:xrl@engineering.upenn.edu" className="inline-flex items-center gap-1.5 text-link hover:opacity-70 duration-200 transition-opacity">
+            <a href="mailto:xrl@seas.upenn.edu" className="inline-flex items-center gap-1.5 text-link hover:opacity-70 duration-200 transition-opacity">
               <Image className="w-3" unoptimized width={12} height={12} src={"/assets/icons/email.svg"} alt={"An Email Icon"}></Image>
-              <span className="underline">xrl@engineering.upenn.edu</span>
+              <span className="underline">xrl@seas.upenn.edu</span>
             </a>
             <a href="https://github.com/xiaoruiyliu" className="inline-flex items-center gap-1.5 text-link hover:opacity-70 duration-200 transition-opacity">
               <Image className="w-3" unoptimized width={12} height={12} src={"/assets/icons/github.svg"} alt={"A Github Icon"}></Image>
