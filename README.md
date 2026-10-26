@@ -7,8 +7,7 @@ Personal website, built with Next.js and deployed to GitHub Pages by
 
 Page text lives in `content/` as Markdown:
 
-- `bio.md`: the paragraph under the name. `[option one/ option two]` becomes a clickable phrase that cycles through the options.
-- `publications.md`, `teaching.md`, `lore.md`: one file per section. `####` is a small group label, `>` is an indented note.
+- `bio.md`, `publications.md`, `teaching.md`, `lore.md`
 
 ## Running locally
 
@@ -20,4 +19,4 @@ npm run build   # static site in out/
 
 ## Credit 
 
-This personal website was based off of Eric Rawn's [personal website](https://www.ericrawn.media/). 
+This personal website was based on Eric Rawn's [personal website](https://www.ericrawn.media/). 
