@@ -8,6 +8,10 @@ Paper template:
 > Optional indented note
 -->
 
+### Property-Based Testing in Intro CS: A Feasibility Study
+- **Xiaorui Liu**, Jeffrey Tao, Harrison Goldstein, Benjamin C. Pierce, Andrew Head
+- *To appear at SIGCSE 2027* (Experience Report/Tools track)
+
 ### Data-Oriented Debugging Across Place and Time
 - Jeffrey Tao, **Xiaorui Liu**, Ryan Marcus, Andrew Head
 - *To appear at UIST 2026*
