@@ -27,3 +27,28 @@
     overflow-x: hidden;
     overflow-x: hidden;
   }
+
+  /* Syntax highlighting for code blocks (classes added by rehype-highlight) */
+  .hljs-keyword,
+  .hljs-built_in {
+    color: #22407a;
+    font-weight: 600;
+  }
+  .hljs-type {
+    color: #2b6150;
+  }
+  .hljs-string {
+    color: #8a4b1c;
+  }
+  .hljs-number,
+  .hljs-literal {
+    color: #9a2f2f;
+  }
+  .hljs-comment {
+    color: #6b7280;
+    font-style: italic;
+  }
+  .hljs-title,
+  .hljs-function {
+    color: #22341f;
+  }

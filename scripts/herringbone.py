@@ -1,4 +1,4 @@
-"""Generate public/assets/herringbone.svg, the page background.
+"""Generate the page background.
 
 Horizontal brick k sits at [k, k+N] x [k, k+1] and vertical brick k at
 [k+N, k+N+1] x [k+1-N, k+1]; strips repeat every (N, -N). Colors alternate by

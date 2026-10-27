@@ -39,9 +39,15 @@ module.exports = {
           from: { opacity: "0", transform: "translateY(0.25em)" },
           to: { opacity: "1", transform: "translateY(0)" },
         },
+        // full strength for 2s, then fade out
+        "line-flash": {
+          "0%, 77%": { opacity: "1" },
+          "100%": { opacity: "0" },
+        },
       },
       animation: {
         "cycle-in": "cycle-in 200ms ease-out",
+        "line-flash": "line-flash 2.6s ease-out forwards",
       },
       spacing: {
         28: "7rem",
