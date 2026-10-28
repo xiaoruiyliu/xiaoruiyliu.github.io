@@ -34,7 +34,7 @@ In this tutorial, added to the beginning of HW3, we introduce PBT using simple e
 ![pbtIntro.ml](/pbt-edu/pbtIntro.ml#L5 "https://github.com/Penn-HCI/property-based-testing-materials/blob/main/materials/assignments/hw03/pbtIntro.ml")
 
 ##### PBT in test-driven design
-In both homeworks, students had the opportunity to apply PBT during test-driven design. Notably, we left these tasks fairly open ended. We did not prescribe a specific "property design process" or require engagement beyond a low baseline of one property-based test and unit test. Students could choose whichever methods they felt to achieve the goal of a "robust" test suite. We thought this design would most clearly show if students found PBT to be intuitive, usable, and compelling. Below is how we framed the task for students to test queues in HW4. 
+In both homeworks, students had the opportunity to apply PBT during test-driven design. Notably, we left these tasks fairly open ended. We did not prescribe a specific "property design process" or require engagement beyond a low baseline of one property-based test and unit test. Students could choose whichever methods they felt to achieve the goal of a "robust" test suite. We thought this design would most clearly show if students found PBT to be intuitive, usable, and compelling. Below is how we framed the task for students to test queues in HW4. This resulted in a wide variety of properties, including the one shown in the intro. 
 
 ![queueTest.ml](/pbt-edu/queueTest.ml#L59-L307 "https://github.com/Penn-HCI/property-based-testing-materials/blob/main/materials/assignments/hw04/queueTest.ml")
 
