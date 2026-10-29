@@ -9,4 +9,4 @@ let property ((x, s) : int * int set) : bool = (* Property *)
   property 
 ```
 
-This test evaluates a *property* that should hold for all integers and sets: if an element is added to a set, that element should become a member of the set. The property is tested many times using random values produced by a *generator* (here, a pair containing a random integer and a random set). With this structure, PBT encourages students to write more general specifications of program behavior.
+This test evaluates a *property* that should hold for all integers and sets: if an element is added to a set, that element should become a member of the set. The property is tested many times using random values produced by a *generator* (here, a pair containing a random integer and a random set). With this structure, PBT encourages students to write more general specifications of program behavior. 

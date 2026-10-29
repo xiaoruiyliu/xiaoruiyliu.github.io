@@ -17,7 +17,7 @@ export default function PbtEdu({ intro, whatIsPbt, howWeTaught }: Props) {
     <>
       <Layout>
         <Head>
-          <title>Property-Based Testing Materials</title>
+          <title>Property-Based Testing Instructional Materials</title>
         </Head>
         <div className="max-w-4xl mb-6">
           <header className="mt-4 mb-4 px-8 md:px-16">
